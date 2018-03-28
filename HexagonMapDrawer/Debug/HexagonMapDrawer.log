@@ -1,0 +1,24 @@
+﻿  main.cpp
+c:\projects\hexagonmapdrawer\hexagonmapdrawer\drawtext.hpp(22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\projects\hexagonmapdrawer\hexagonmapdrawer\getmapfromfile.hpp(23): warning C4018: '<': signed/unsigned mismatch
+c:\projects\hexagonmapdrawer\hexagonmapdrawer\getmapfromfile.hpp(26): warning C4018: '<': signed/unsigned mismatch
+c:\projects\hexagonmapdrawer\hexagonmapdrawer\getmapfromfile.hpp(36): warning C4018: '<': signed/unsigned mismatch
+c:\projects\hexagonmapdrawer\hexagonmapdrawer\drawmap.hpp(29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\projects\hexagonmapdrawer\hexagonmapdrawer\drawmap.hpp(30): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\projects\hexagonmapdrawer\hexagonmapdrawer\drawmap.hpp(31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\projects\hexagonmapdrawer\hexagonmapdrawer\drawmap.hpp(32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\projects\hexagonmapdrawer\hexagonmapdrawer\drawmap.hpp(33): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\projects\hexagonmapdrawer\hexagonmapdrawer\drawmap.hpp(34): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\projects\hexagonmapdrawer\hexagonmapdrawer\drawmap.hpp(37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\projects\hexagonmapdrawer\hexagonmapdrawer\drawmap.hpp(37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\projects\hexagonmapdrawer\hexagonmapdrawer\drawmap.hpp(42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\projects\hexagonmapdrawer\hexagonmapdrawer\main.cpp(110): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\projects\hexagonmapdrawer\hexagonmapdrawer\main.cpp(110): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\projects\hexagonmapdrawer\hexagonmapdrawer\main.cpp(162): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\projects\hexagonmapdrawer\hexagonmapdrawer\main.cpp(162): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\projects\hexagonmapdrawer\hexagonmapdrawer\menu.hpp(55): warning C4715: 'Menu': not all control paths return a value
+c:\projects\hexagonmapdrawer\hexagonmapdrawer\getterrain.hpp(66): warning C4715: 'GetTerrain': not all control paths return a value
+c:\projects\hexagonmapdrawer\hexagonmapdrawer\getterrain.hpp(34): warning C4715: 'GetTerrain': not all control paths return a value
+c:\projects\hexagonmapdrawer\hexagonmapdrawer\find.hpp(14): warning C4715: 'Find<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >': not all control paths return a value
+  HexagonMapDrawer.vcxproj -> C:\Projects\HexagonMapDrawer\Debug\HexagonMapDrawer.exe
+  HexagonMapDrawer.vcxproj -> C:\Projects\HexagonMapDrawer\Debug\HexagonMapDrawer.pdb (Partial PDB)
